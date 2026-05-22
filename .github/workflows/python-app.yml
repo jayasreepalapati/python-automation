@@ -1,4 +1,4 @@
-yamlname: Python Automation Tests
+name: Python Automation Tests
 
 on:
   push:
