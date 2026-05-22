@@ -1,0 +1,22 @@
+# Mobile UI
+kivy==2.3.0
+kivymd==1.2.0
+
+# Database
+peewee==3.17.6
+
+# AI — onboarding only
+anthropic>=0.28.0
+
+# Notifications
+plyer==2.1.0
+
+# Job scheduling
+schedule==1.2.2
+
+# Data validation
+pydantic>=2.0.0
+
+# Testing
+pytest==8.2.2
+pytest-mock==3.14.0
